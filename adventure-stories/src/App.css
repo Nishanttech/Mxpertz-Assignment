@@ -1,0 +1,11 @@
+body {
+  background-color: rgb(4, 4, 99);
+  color: white;
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+}
+
+#root {
+  min-height: 100vh;
+}

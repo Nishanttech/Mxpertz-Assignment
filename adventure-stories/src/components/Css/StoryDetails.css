@@ -1,0 +1,11 @@
+
+.story-detail {
+  padding: 20px;
+}
+
+.question-card {
+  margin: 10px 0;
+  padding: 15px;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+}
